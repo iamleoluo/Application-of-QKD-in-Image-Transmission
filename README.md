@@ -2,4 +2,4 @@
 Application of QKD in Image Transmission
 
 How to run
->python3 OpenCVconvert.py
+>python3 openCVconvert.py
